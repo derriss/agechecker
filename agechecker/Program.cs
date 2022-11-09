@@ -3,7 +3,7 @@ using System.Globalization;
 
 
 // Personlig introduktion
-Console.WriteLine("Välkommen till Ålderskollen! Nu ska vi kolla om du är tillräckligt gammal för att gå på bolaget.");
+Console.WriteLine("Välkommen till Ålderskollen! Nu ska vi kolla om du är tillräckligt gammal för att gå på bolaget! Så kul!");
 Thread.Sleep(250);
 Console.WriteLine("****************");
 Thread.Sleep(250);
