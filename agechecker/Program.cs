@@ -41,7 +41,7 @@ else
     Console.WriteLine("Vad tusan! Din ålder är bara " + age + ". Du får vänta ytterliggare " + timeLeft + " år innan det är din tur att gå till Systembolaget.");
 }
 
-// Feedback - När tycker användaren att man borde få gå på bolaget?
+// Vill användaren ha en sammanställning?
 
 Thread.Sleep(1000);
 Console.WriteLine("Vill du ha en sammanställning på dina svar? Ja (1)/Nej");
